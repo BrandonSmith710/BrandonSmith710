@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @BrandonSmith710
-- 👀 I’m interested in data science, data engineering, cooking, exercising and watching movies.
-- 🌱 I’m currently learning about web applications
-- 💞️ I’m looking to collaborate on natural language processing applications
+- 👋 Hello, my name is Brandon Smith
+- 👀 I’m interested in data science, data/software engineering, cooking, exercising and movies.
+- 🌱 I am currently learning about web applications
+- 💞️ I’d really like to work on more natural language processing applications
 - 📫 How to reach me: brandon.smith8@yahoo.com
 
 <!---
