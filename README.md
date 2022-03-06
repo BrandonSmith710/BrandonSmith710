@@ -1,5 +1,5 @@
 - 👋 Hello, my name is Brandon Smith
-- 👀 I’m interested in data science, data/software engineering, cooking, exercising and movies.
+- 👀 I’m interested in data science, data/software engineering, cooking, exercising and movies
 - 🌱 I am currently learning about web applications
 - 💞️ I’d really like to work on more natural language processing applications
 - 📫 How to reach me: brandon.smith8@yahoo.com
