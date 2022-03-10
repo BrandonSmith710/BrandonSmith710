@@ -9,7 +9,7 @@ BrandonSmith710/BrandonSmith710 is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">An engaged data scientist in Southern California</h3>
 
 - ⚡ My top skills **Machine Learning, Python programming, SQL, ETL Pipeline, Principal Component Analysis, Singular Value Decomposition, Neural Network, Git Bash, Web Testing**
 
