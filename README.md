@@ -1,7 +1,7 @@
 - 👋 Hello, my name is Brandon Smith
 - 👀 I’m interested in data science, data/software engineering, cooking, exercising and movies
-- 🌱 I am currently learning about cloud applications
-- 💞️ I’d really like to work on more topic modeling and sentiment analysis projects
+- 🌱 I am currently learning about stateful lstms for time series forecasting 
+- 💞️ I’d really like to work on more natural language processing projects
 - 📫 How to reach me: brandon.smith8@yahoo.com
 
 <!---
