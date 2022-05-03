@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <h3 align="center">An engaged data scientist from Southern California</h3>
 
-- ⚡ My top skills **Data Analysis, Python Data Structures and Algorithms, Machine Learning, SQL, NO-SQL, ETL Pipeline, LDA, PCA, SVD, Time Series Forecasting, Neural Networking, Web Application Development, Web Testing**
+- ⚡ My top skills **Data Analysis, Python Data Structures and Algorithms, Machine Learning, SQL, NO-SQL, ETL Pipeline, LDA, PCA, SVD, Deep Neural Networks, Time Series Forecasting, Web Application Development, Data Visualization, Web Testing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
