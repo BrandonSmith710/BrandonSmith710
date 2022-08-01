@@ -8,7 +8,7 @@
 BrandonSmith710/BrandonSmith710 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h3 align="center">An engaged data scientist from Southern California</h3>
+<h3 align="center">An engaged data engineer from Southern California</h3>
 
 - ⚡ My top skills **Data Analysis, Python Data Structures and Algorithms, Machine Learning, Data Modeling, SQL, NoSQL, ETL/ELT, Apache Airflow and Spark, NLU, Deep Neural Networks, Time Series Forecasting, Web Application Development, A/B Testing, Data Visualization, Web Testing**
 
