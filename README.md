@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <h3 align="center">An engaged data engineer from Southern California</h3>
 
-- ⚡ My top skills **Data Analysis, Python Data Structures and Algorithms, Machine Learning, Data Modeling, SQL, NoSQL, ETL/ELT, Apache Airflow and Spark, NLU, Deep Neural Networks, Time Series Forecasting, Web Application Development, A/B Testing, Data Visualization, Web Testing**
+- ⚡ My top skills **Data Analysis, Data Structures and Algorithms, Data Modeling, Machine Learning, Python, JavaScript, R, SQL, NoSQL, ETL/ELT, DevOps, Apache Airflow & Spark, NLU, A/B Testing, Data Reporting, HTML, CSS, Tableau, Excel**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
