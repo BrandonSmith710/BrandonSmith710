@@ -1,7 +1,7 @@
 - 👋 Hello, my name is Brandon Smith
-- 👀 I’m interested in data science, data/software engineering, cooking, exercising and movies
-- 🌱 I am currently learning about data pipeline automation 
-- 💞️ I’d really like to work on more natural language understanding projects
+- 👀 I’m interested in technology, data analytics, data/software engineering, cooking, exercising and movies
+- 🌱 I am currently learning about networking and blockchain development
+- ⚡ I feel grateful that I can learn new skills regularly, and hope to encounter data engineering/analytics employment with an esteemed company.
 - 📫 How to reach me: brandon.smith8@yahoo.com
 
 <!---
